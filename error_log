@@ -1,0 +1,4 @@
+[25-Apr-2017 06:55:39 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'awaazsup_rahul1'@'localhost' (using password: YES) in /home/awaazsuper/public_html/shop/link.php on line 2
+[25-Apr-2017 06:55:39 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/awaazsuper/public_html/shop/link.php on line 8
+[25-Apr-2017 06:55:52 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'awaazsup_rahul'@'localhost' (using password: YES) in /home/awaazsuper/public_html/shop/link.php on line 2
+[25-Apr-2017 06:55:52 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/awaazsuper/public_html/shop/link.php on line 8
